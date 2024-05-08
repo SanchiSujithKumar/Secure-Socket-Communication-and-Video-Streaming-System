@@ -40,7 +40,7 @@ The client component, `client.py`, establishes connections with the server, send
 
 ### Demo Video
 
-For a visual demonstration of the system's capabilities, please refer to the demo video available at [[insert_demo_video_link_here](https://www.youtube.com/watch?v=UsuVoRccBw4&t=521s)].
+For a visual demonstration of the system's capabilities, please refer to the demo video available at [[here](https://www.youtube.com/watch?v=UsuVoRccBw4&t=521s)].
 
 ### Conclusion
 
