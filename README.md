@@ -1,4 +1,4 @@
-## Secure Socket Programming System for Communication and Video Streaming
+## Secure Communication and Video Streaming System using Python Socket Programming
 
 Welcome to the Secure Socket Programming System repository. This system enables secure communication and video streaming among clients through a central server. Developed in Python, it utilizes RSA encryption for secure messaging and OpenCV for video streaming.
 
